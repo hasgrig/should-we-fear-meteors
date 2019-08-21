@@ -1,0 +1,8 @@
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column; }
+
+.svg-crowbar {
+  left: 50%;
+  top: 50%; }
